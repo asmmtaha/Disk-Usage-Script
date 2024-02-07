@@ -37,3 +37,5 @@ $ ./disk_usage.sh -n 5 /etc
 2.0M    /etc/ssl
 1.9M    /etc/ssl/certs
 1.8M    /etc/ca-certificates/extracted
+```
+Outputs may differ on each device.
