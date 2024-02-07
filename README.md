@@ -11,6 +11,8 @@ The script takes one or more directories as arguments and displays disk usage in
 ```
 
 ## Example Usages
+Display disk usage for the "/etc" directory:
+
 ```bash
 # Run on /etc
 $ ./disk_usage.sh /etc
@@ -24,7 +26,9 @@ $ ./disk_usage.sh /etc
 1.1M    /etc/pacman.d
 780K    /etc/ca-certificates/extracted/cadir
 340K    /etc/ssh
-
+```
+Display disk usage for the "/etc" directory, showing the top 5 entries:
+```bash
 # Run on /etc (limit output to top 5)
 $ ./disk_usage.sh -n 5 /etc
 15M     /etc
