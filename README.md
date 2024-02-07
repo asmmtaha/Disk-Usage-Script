@@ -14,6 +14,7 @@ The script takes one or more directories as arguments and displays disk usage in
 The "-a" flag means that the script should list both files and directories, and the "-n" flag indicates that only the top "N" entries should be printed (if "N" is not specified, then it should default to 10).
 
 ## Example Usages
+
 Display disk usage for the "/etc" directory:
 ```bash
 
