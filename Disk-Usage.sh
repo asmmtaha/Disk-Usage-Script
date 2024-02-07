@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Yazar: Asım Taha Şanlı "tahasanli76@.gmail.com"
+Author: Asım Taha Şanlı | Email: tahasanli76@gmail.com
 
 all_flag=false
 num_flag=false
